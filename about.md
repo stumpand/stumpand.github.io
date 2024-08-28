@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About / Andrew Stump</title>
     <link href="/styles.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,8 +14,9 @@
         </nav>
         <section>
             <h1>Hey there, I'm Andrew 👋</h1>
-            <p>I am a data enthusiast, math lover, and former physicist.</p>
-            <img source="/andrew_stump.jpg"></img>
+            <p>I am a data enthusiast, math lover, and former physicist. I'm using this page as a way to 
+            keep track of my data journey.</p>
+            <img src="/andrew_stump.jpg" alt="Andrew Stump" width="300">
         </section>
         <footer>
             <div class="divider"></div>
