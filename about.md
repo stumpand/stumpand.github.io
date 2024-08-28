@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,6 +16,7 @@
         <section>
             <h1>Hey there, I'm Andrew 👋</h1>
             <p>I am a data enthusiast, math lover, and former physicist.</p>
+            <img source="/andrew_stump.jpg"></img>
         </section>
         <footer>
             <div class="divider"></div>
