@@ -18,10 +18,10 @@
             <h1>Hey there, I'm Andrew 👋</h1>
             <p>I am a data enthusiast, math lover, and former physicist.</p>
         </section>
-
-        </section>
         <footer>
-
+            <div class="divider"></div>
+            <div>Andrew Stump 2024</div>
+            <div><a href="https://docs.google.com/forms/d/1FmkmiD9CdXwro2OMTfHWJMPzGLhgDeppyzpjnyDUKPQ/prefill">Get in touch</a> / <a href="https://github.com/stumpand" target="_blank">GitHub</a> / <a href="/resume.pdf" target="_blank">Resume</a></div>
         </footer>
     </div>
     
